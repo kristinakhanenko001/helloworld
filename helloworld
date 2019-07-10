@@ -1,0 +1,13 @@
+git remote add origin https://github.com/kristinakhanenko001/helloworld.git
+git push -u origin master
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello, wordl\n"
+    
+    
+ {
+ 
+ 
